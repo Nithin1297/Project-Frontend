@@ -1,0 +1,22 @@
+img {
+    display: grid; 
+    height : 500px ; 
+    width: 500ox;
+    place-content: center; 
+    justify-content: center; 
+    align-items: center; 
+    
+}
+
+body{
+    margin : 0
+}
+
+.imagecontainer{
+     margin-top: 200px;
+    display: grid; 
+    place-content: center; 
+    justify-content: center; 
+    align-items: center; 
+    
+}
